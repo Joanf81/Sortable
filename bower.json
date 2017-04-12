@@ -23,6 +23,11 @@
   "license": "MIT",
   "ignore": [
     "node_modules",
-    "bower_components"
+    "bower_components",
+		"knockout",
+		"st",
+		"Sortable.js",
+		"Sortable.html",
+		"Sortable.min.js"
   ]
 }
