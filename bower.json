@@ -8,7 +8,7 @@
   "authors": [
     "RubaXa <ibnRubaXa@gmail.com>"
   ],
-  "description": "Minimalist library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery.",
+  "description": "Minimalist library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. (Edited by joanf81 for only donwload the tests files)",
   "keywords": [
     "sortable",
     "reorder",
