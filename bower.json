@@ -1,7 +1,8 @@
 {
   "name": "Sortable-testing",
   "main": [
-    "tests/src/simulate.js"
+    "tests/src/simulate.js",
+		"tests/src/polyfills.js"
   ],
   "homepage": "http://rubaxa.github.io/Sortable/",
   "authors": [
