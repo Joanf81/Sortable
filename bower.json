@@ -34,7 +34,7 @@
 	  	"Gruntfile.js",
 	  	"index.html",
 	  	"jquery.binding.js",
-	  	"knockput-sortable.js",
+	  	"knockout-sortable.js",
 	  	"ng-sortable.js",
 	  	"react-sortable-mixin.js",
 	  	"README.md",
