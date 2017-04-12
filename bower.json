@@ -28,6 +28,17 @@
 		"st",
 		"Sortable.js",
 		"Sortable.html",
-		"Sortable.min.js"
+		"Sortable.min.js",
+	  	"component.json",
+	  	"CONTRIBUTING.md",
+	  	"Gruntfile.js",
+	  	"index.html",
+	  	"jquery.binding.js",
+	  	"knockput-sortable.js",
+	  	"ng-sortable.js",
+	  	"react-sortable-mixin.js",
+	  	"README.md",
+	  	"component.json",
+	  	"package.json"
   ]
 }
